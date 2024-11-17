@@ -1,0 +1,12 @@
+.login-div{
+    background-color:rgb(81, 120, 81);
+    color:white;
+    font-weight:bold;
+    margin-top:-90px;
+    width:400px;
+    box-shadow: 0px 15px 25px rgba(255, 230, 230, 0.2);
+}
+.form-cont{
+    width:400px;
+    box-shadow: 0px 15px 25px rgba(255, 255, 255, 0.2);
+}
